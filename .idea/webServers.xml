@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f6799c92-dd59-4db0-9038-57d429fbb435" name="hbase">
+        <fileTransfer accessType="SFTP" host="192.168.131.144" port="22" sshConfigId="d46fcfc1-9930-48e4-92bf-cd65bbbd15dc" sshConfig="root@192.168.131.144:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
